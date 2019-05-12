@@ -1,0 +1,44 @@
+###
+#
+# Tremolite
+# Project Ideas:
+# #
+# #STAGE1-SPECIFICATION(DEFINING REQUIREMENTS)
+# # =Defined Requirements
+# #  ?-Overview of Request and Requirements
+# #  -User Stories
+# #  -Define Premissions and account types
+# #    ?-Use: MCSS must, should, can, can't
+# # =Defined Scope agreed
+# #STAGE2-TECHNICAL PREPARATION
+# # =Use Agile Devs / Sprints
+# # -=Trello / ToDo / Keep / ClickUp
+# # -=?Alternative for non-team freelance devs?
+# #   ?-1b:BDD
+# #   ###
+# #STAGE3-PROJECT TRACKING
+# # =Identify open forum for queries
+# # =Identify open dev / bug logging process
+# # =Require:
+# #  -shared docs / files process
+# #
+# # ###
+# #
+# #X-DEV
+# # =Local dev-alpha
+# #  -Systems Integration Testing
+# # =Restricted dev-beta
+# #  -User Acceptance Test
+# # =Refactor from SIT / UAT
+# # =Sign Off
+# #
+# #X-PROJECT-REVIEW
+# # =What went: wrong, right / Feedback
+# # -= How? 
+# # =What was: enjoyable, motivational, deflating, demotivational
+# # -=Why?
+# # =What: perdev and skills have improved?
+# # -=How?
+# # =Changes to processes and procedures?
+#
+###

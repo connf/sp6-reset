@@ -1,0 +1,41 @@
+This installation media was created using:
+ - Create a Recovery Drive (Windows built in software)
+ - Ticked to select 'include System Files'
+
+Built from machine:
+SP6 i7 Intel 620 16GB 512GB
+Unlicense Windows 10 Home (as it was missold, should be Pro)
+Converted to KMS (Assume infected and unclean due to lack of security!)
+
+
+
+
+This is only for testing from USB reset
+---------------------------------------
+ OOBE changes saved? ensure language, keyboard and format is correct and
+  only contains working en-gb UK (and en-us US?) otherwise tweak to liking
+  and retest.
+ Start menu changes - non important items are removed?
+
+Also check activation status - Activated? Home? Pro (using gen key)? KMS?
+ Digital?
+ If Pro on genuine then Reset using genuine MS Factory Reset, then create
+ rec media and update unattend/oobe configs to match this test to have a
+ Custom Genuine Pro Factory Reset USB for SP6 (legal as this i what was
+ bought anyway)
+
+Upon confirmation of SP6 Pro Genuine then factory reset using MS SP6 Images
+ to guarantee CLEAN system, before creating CLEAN media via same "Recovery
+ Drive" software (after updating to genuine Pro)
+ Repeat steps to ensure usb media is configured correctly
+ This can then be used instead of MS Factory reset to get genuine, more recent
+  updates and features of SP6 Win10Pro when needing a full factory reset
+
+Backup a clone of the original MS Repair Media (Download and USB config and
+ WinRe partition?)
+Backup a clone of the custom genuine SP6 Pro Repair Media if possible
+
+Proceed to modifying the build
+
+Sideload apps and settings and only then create Recovery media (except to get
+ the Pro Factory Reset image

@@ -1,0 +1,4 @@
+Last 5 characters of installed product key: T83GX
+License Status: Activated
+Error Code: 0 as licensed
+Remaining Grace: 179 days  (259195 minute(s) before expiring)

@@ -1,0 +1,2 @@
+﻿Recovery USB:
+\sources\OEM\OOBE\2057\OOBE.xml #EN-GB UK GMT
