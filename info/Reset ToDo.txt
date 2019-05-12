@@ -1,0 +1,20 @@
+HDD USB
+Oldest First
+Delete old
+Overwrite / Combine / Sort Newer
+
+Re-assess HDDs for backup
+
+Setup Windows reset config partitions and investigate usb hdd OSes or SD 
+
+Reinstall Win10
+KMS Upgrade
+VHD via rEFInd?
+Install rEFInd
+Install ubuntu
+Install/try kali/centos
+
+Config win10
+setup via ps scripts
+
+SOCKS Encryption

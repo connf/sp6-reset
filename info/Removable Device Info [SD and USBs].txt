@@ -1,0 +1,18 @@
+ISO - SP6 Restore to USB Stick
+Bkup Sort via Windows
+
+
+
+
+
+Test Recovering 128GB USB - part type via ubuntu expand to full size
+Test USB 32GB Restore + Expand - UEFI NTFS?
+
+Memory card fixed by changing partition type from EFI SYSTEM to Windows: Basic Data - NTFS on ubuntu live > disks
+
+gparted expanded usb128 part after mount did not resolve
+ublive > disks bootable did not resolve
+
+try usb128 format > shrink to img size > restore image?
+
+try disks Windows: Basic Data Fat32 equivalent - may need to resize up or down first but shouldnt matter?
