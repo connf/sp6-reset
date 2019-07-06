@@ -1,0 +1,5 @@
+/a - opens activation window (after changing key allows activation in new key format on restart (kms, gvlk, oem, etc))
+/f - runs full OOBE
+/x - launches internet signup
+/update - asks whether you want to enable automatic updates
+/retail - same as /f
